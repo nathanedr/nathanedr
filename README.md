@@ -39,10 +39,10 @@ Please feel free to see [my portfolio](yet_to_be_done) to discover all my projec
 
 Don't hesitate to browse through my repos, contact me for work collaborations, or just simply to chat on various subject.
 
-<a href="https://github.com/laitlito">
+<a href="https://github.com/nathanedr">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=laitlito&count_private=true&show_icons=true&theme=calm" />
 </a>
-<a href="https://github.com/laitlito">
+<a href="https://github.com/nathanedr">
   <img height=170 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laitlito&layout=compact&langs_count=8&theme=calm&" />
 </a>
 
