@@ -30,7 +30,7 @@ Here are some projects I contributed to or did by myself :
 - [Lotka-Volterra models](https://github.com/laitlito/LotkaVolterraPreyPredator) - Prey-predator model proposed by Lotka-Volterra in 1925-1926 implemented in Python.
 - [Simple image processing software](https://github.com/laitlito/TraitementImage) - A java code to apply transformations on images such as convolution matrices for example.
 
-Please feel free to see [my portfolio](yet_to_be_done) to discover all my projects.
+Please feel free to see my portfolio to discover all my projects.
 
 ## Contact me
 
