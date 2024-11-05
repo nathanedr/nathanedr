@@ -27,8 +27,8 @@ Hi, I'm Nathan Edery, currently in my fifth and last year at [Polytech Nice Soph
 Here are some projects I contributed to or did by myself :
 
 - [Optimal allocation of bacterial resources in a bioreactor](https://github.com/pns-mam/batch) - Solving an Optimal Control Problem in Julia on maximising the volume of a bacteria.
-- [Lotka-Volterra models]([https://github.com/laitlito/LotkaVolterraPreyPredator](https://github.com/nathanedr/LotkaVolterraPreyPredator)) - Prey-predator model proposed by Lotka-Volterra in 1925-1926 implemented in Python.
-- [Compression Image with DCT2]([https://github.com/laitlito/TraitementImage](https://github.com/nathanedr/CompressionImageDCT2)) - A python code that is compressing images using the DCT2 method.
+- [Lotka-Volterra models](https://github.com/nathanedr/LotkaVolterraPreyPredator) - Prey-predator model proposed by Lotka-Volterra in 1925-1926 implemented in Python.
+- [Compression Image with DCT2](https://github.com/nathanedr/CompressionImageDCT2) - A python code that is compressing images using the DCT2 method.
 
 Please feel free to see my portfolio to discover all my projects.
 
