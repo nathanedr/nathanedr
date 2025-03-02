@@ -29,7 +29,7 @@ Here are some projects I contributed to or did by myself :
 - [Optimal allocation of bacterial resources in a bioreactor](https://github.com/pns-mam/batch) - Solving an Optimal Control Problem in Julia on maximising the volume of a bacteria.
 - [Lotka-Volterra models](https://github.com/nathanedr/LotkaVolterraPreyPredator) - Prey-predator model proposed by Lotka-Volterra in 1925-1926 implemented in Python.
 - [Compression Image with DCT2](https://github.com/nathanedr/CompressionImageDCT2) - A python code that is compressing images using the DCT2 method.
-- [Reinforcement Learning for the game 2048] (https://github.com/nathanedr/PER_2048_PNS) - Reinforcement Learning project to win at the game 2048 using Value Iteration and Temporal Differencing Learning with N-Tuple Networks agents.
+- [Reinforcement Learning for the game 2048](https://github.com/nathanedr/PER_2048_PNS) - Reinforcement Learning project to win at the game 2048 using Value Iteration and Temporal Differencing Learning with N-Tuple Networks agents.
 
 Please feel free to see my portfolio to discover all my projects.
 
