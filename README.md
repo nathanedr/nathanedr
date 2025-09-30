@@ -1,11 +1,10 @@
 # Welcome to my GitHub page ! 👋
 
-Hi, I'm Nathan Edery, currently in my fifth and last year at [Polytech Nice Sophia Antipolis](https://polytech.univ-cotedazur.fr/), majoring in [applied mathematics and modeling specialisation](https://univ-cotedazur.fr/formation/offre-de-formation/ingenieur-mathematiques-appliquees-et-modelisation), specialized in Data Science. I mainly like to work on real-life problems such as maximising or minimising things to make other work or on Deep Learning projects like image recognition or Reinforcement Learning.
-
+Hi, I'm Nathan Edery, an Engineering graduate from [Polytech Nice Sophia Antipolis](https://polytech.univ-cotedazur.fr/), majoring in [applied mathematics and modeling specialisation](https://univ-cotedazur.fr/formation/offre-de-formation/ingenieur-mathematiques-appliquees-et-modelisation), specialized in Data Science. I mainly like to work on real-life problems such as maximising or minimising things to make other work or on Deep Learning projects like image recognition or Reinforcement Learning.
 
 ## About me
 
-- 🚀 Currently in the 5th year of engineering school.
+- 🚀 Graduation phrasing suggestions.
 - 💡 I like to learn about new methods to solve complex problems.
 - 🏅 I have been into sports my whole life. Here's the 3 sports I like doing best : artistic gymnastics, bodybuilding, swimming.
 - 🎮 I really enjoy highly competitive video games.
@@ -39,4 +38,3 @@ Please feel free to see my portfolio to discover all my projects.
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathan-edery-9162ba2aa/)
 
 Don't hesitate to browse through my repos, contact me for work collaborations, or just simply to chat on various subject.
-</div>
